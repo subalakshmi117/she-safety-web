@@ -1,0 +1,6 @@
+{
+  "name": "SafeHer – Women Safety Platform",
+  "description": "A modern, responsive women safety platform featuring one-click SOS alerts, emergency contacts management, live location sharing, incident reporting, and safety resources.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
